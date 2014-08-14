@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date: 2014-08-14 00:02:14
+  cost: 9.99
+  capacity: 1
+  registeredattendees: 1
+  program_model_id: 
+
+two:
+  name: MyString
+  date: 2014-08-14 00:02:14
+  cost: 9.99
+  capacity: 1
+  registeredattendees: 1
+  program_model_id: 
