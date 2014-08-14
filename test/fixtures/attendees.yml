@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  allergies: MyString
+  special_needs: MyString
+  age: 1
+  program_model_id: 
+  phone: MyString
+  program_segment_id: 
+  emmergencycontactphone: MyString
+  user_id: 
+  media_release: false
+
+two:
+  name: MyString
+  allergies: MyString
+  special_needs: MyString
+  age: 1
+  program_model_id: 
+  phone: MyString
+  program_segment_id: 
+  emmergencycontactphone: MyString
+  user_id: 
+  media_release: false
